@@ -3,7 +3,7 @@ package ensyuu8;
 import java.util.ArrayList;
 import java.util.Arrays;
 
-public class Hairetu2 {
+public class Hairetu9 {
     public static void main(String[] args) {
         //list_aとlist_bを作成
         int[] a = {10, 20, 30, 40, 50};
