@@ -3,7 +3,7 @@ package kougi;
 import java.util.Random;
 import java.util.Scanner;
 
-public class kazuate {
+public class Kazuate {
     public static void main(String[] args) {
         Random rand = new Random();
         Scanner stdIn = new Scanner(System.in);

@@ -1,6 +1,6 @@
 package ensyuu7;
 
-public class while1 {
+public class While1 {
     public static void main(String[] args) {
         int x = 0;
         int total = 0;

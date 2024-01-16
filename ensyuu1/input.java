@@ -1,7 +1,7 @@
 package ensyuu1;
 
 import java.util.Scanner;
-public class input {
+public class Input {
     public static void main(String[] args) {
         Scanner stdIn = new Scanner(System.in);
         System.out.print("お名前を入力してください＞");

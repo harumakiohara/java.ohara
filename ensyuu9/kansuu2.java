@@ -1,6 +1,6 @@
 package ensyuu9;
 
-public class kansuu2 {
+public class Kansuu2 {
     static void hello(String[] args){
         System.out.println("Hello");
     }

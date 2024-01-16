@@ -1,6 +1,6 @@
 package ensyuu1;
 import java.util.Scanner;
-public class input3 {
+public class Input3 {
     public static void main(String[] args) {
         Scanner stdIn = new Scanner(System.in);
         System.out.print("年：");

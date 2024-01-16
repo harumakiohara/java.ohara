@@ -1,8 +1,8 @@
 package kougi;
 import java.util.Scanner;
 
-import ensyuu1.suuzi;
-public class mesod {
+import ensyuu1.Suuzi;
+public class Mesod {
         static int max(int a, int b, int c){
             int max = a;
             if (b > max) max = b;

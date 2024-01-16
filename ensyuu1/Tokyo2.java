@@ -1,6 +1,6 @@
 package ensyuu1;
 
-public class tukyo2 {
+public class Tokyo2 {
     public static void main(String[] args) {
         String capital = "東京";
         int area = 2193;

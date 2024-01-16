@@ -1,6 +1,6 @@
 package ensyuu6;
 import java.util.Scanner;
-public class for5 {
+public class For5 {
     public static void main(String[] args) {
         Scanner stdIn = new Scanner(System.in);
         System.out.print("入力文字列：");

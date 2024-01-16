@@ -1,6 +1,6 @@
 package ensyuu1;
 
-public class wagahai {
+public class Wagahai {
     public static void main(String[] args) {
         System.out.print("吾輩は猫である。");
         System.out.print("名前はまだない。");

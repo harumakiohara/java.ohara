@@ -1,6 +1,6 @@
 package ensyuu9;
 
-public class kansuu1 {
+public class Kansuu1 {
     static void school(String[] args){
          System.out.println("北九州情報ITクリエイター専門学校");
     }

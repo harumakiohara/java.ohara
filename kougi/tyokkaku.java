@@ -1,7 +1,7 @@
 package kougi;
 
 import java.util.Scanner; 
-public class tyokkaku {
+public class Tyokkaku {
     public static void main(String[] args) {
         Scanner stdIn = new Scanner(System.in);
         System.out.println("左下直角の二等辺三角形を表示します。");

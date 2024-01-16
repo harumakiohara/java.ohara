@@ -1,5 +1,5 @@
 package ensyuu3;
 
-public class keisan {
+public class Keisan {
     
 }
