@@ -9,7 +9,7 @@ public class Hairetu9 {
         int[] a = {10, 20, 30, 40, 50};
         int[] b = {22, 33, 44, 55, 66};
         
-        //2つのlistを足し算した数を代入するからのlist_c
+        //2つのlistを足し算した数を代入する空のlist_c
         ArrayList<Integer> c = new ArrayList<>();
         
         //while文でlist_cに結果を代入
