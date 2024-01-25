@@ -2,8 +2,8 @@ package ensyuu13;
 
 //抽象クラスPerson
 abstract class Person {
-    public String name = "";
-    public String job = "";
+    protected String name = "";
+    protected String job = "";
     
     //抽象メソッド
     abstract void introduce();
