@@ -1,9 +1,9 @@
 package ensyuu13;
 
 public class Cook3 implements Person3 {
-    public String name ="";
-    public String job ="";
-    public String specialties ="";
+    private String name ="";
+    private String job ="";
+    private String specialties ="";
     
     //コンストラクタ
     public Cook3(String name, String job, String specialties) {

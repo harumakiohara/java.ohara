@@ -1,9 +1,9 @@
 package ensyuu13;
 
 public class Teacher3 implements Person3 {
-    public String name = "";
-    public String job = "";
-    public String subject = "";
+    private String name = "";
+    private String job = "";
+    private String subject = "";
     
     //コンストラクタ
     public Teacher3(String name, String job, String subject) {
